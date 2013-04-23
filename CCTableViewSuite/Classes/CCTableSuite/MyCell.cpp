@@ -1,0 +1,1 @@
+﻿////  MyCell.m//  GTable////  Created by Sangwoo Im on 6/4/10.//  Copyright 2010 Sangwoo Im. All rights reserved.//#include "MyCell.h"CCSize MyCell::cellSize(){    return CCSizeMake(57, 57);}

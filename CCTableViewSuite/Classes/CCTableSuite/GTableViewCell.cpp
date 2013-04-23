@@ -1,0 +1,1 @@
+﻿////  GTableViewCell.m//  GTable////  Created by Sangwoo Im on 6/3/10.//  Copyright 2010 Sangwoo Im. All rights reserved.//#include "GTableViewCell.h"CCSize GTableViewCell::cellSize(){    return CCSizeZero;}

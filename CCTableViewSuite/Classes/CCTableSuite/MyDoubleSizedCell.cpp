@@ -1,0 +1,1 @@
+﻿////  MyDoubleSizedCell.m//  GTable////  Created by Sangwoo Im on 6/5/10.//  Copyright 2010 Sangwoo Im. All rights reserved.//#include "MyDoubleSizedCell.h"CCSize MyDoubleSizedCell::cellSize(){    return CCSizeMake(114, 114);}
